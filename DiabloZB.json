@@ -1,1 +1,236 @@
-[{"商品名称":null,"装备类型":"护身符","属性1":"Ranks to Heavy Handed","属性2":"Ranks to Counteroffensive","属性3":"Strength","属性4":null,"greater affix":3.0},{"商品名称":"Ugly Bastard Helm","装备类型":"头盔","属性1":"Ranks to Prolific Fury","属性2":"XWrath of the Berserker Cooldown Reduction","属性3":"Ranks to Agressive Resistance","属性4":"Lucky Hit: Up to a 40% Chance to Deal [X] Fire Damage","greater affix":4.0},{"商品名称":"Mantle of Mountain's Fury","装备类型":"胸甲","属性1":"Armor","属性2":"Ranks to Hammer of the Ancients","属性3":"Ranks to Defensive Stance","属性4":"Chance for Earthquake to Deal Double Damage","greater affix":4.0},{"商品名称":"Fists of Fate","装备类型":"手套","属性1":"Lucky Hit Chance","属性2":"Critical Strike Chance","属性3":"Attack Speed","属性4":"Lucky Hit: Up to a [X%] Chance to Apply a Random Crowd Control Effect for 2 Seconds","greater affix":4.0},{"商品名称":null,"装备类型":"戒指","属性1":"Resistance to All Elements","属性2":"Strength","属性3":"Critical Strike Chance","属性4":null,"greater affix":3.0},{"商品名称":null,"装备类型":"戒指","属性1":"Critical Strike Chance","属性2":"Resistance to All Elements","属性3":"Strength","属性4":null,"greater affix":3.0},{"商品名称":null,"装备类型":"裤子","属性1":"Maximum Life","属性2":"Strength","属性3":"Resistance to All Elements","属性4":null,"greater affix":3.0},{"商品名称":null,"装备类型":"鞋子","属性1":"Strength","属性2":"Ranks to War Cry","属性3":"Movement Speed","属性4":null,"greater affix":3.0},{"商品名称":null,"装备类型":"双手锤","属性1":"Vulnerable Damage","属性2":"Maximum Life","属性3":"Strength","属性4":null,"greater affix":3.0},{"商品名称":null,"装备类型":"护身符","属性1":"Strength","属性2":"Ranks to Heavy Handed","属性3":"Ranks to Pit Fighter","属性4":null,"greater affix":3.0},{"商品名称":null,"装备类型":"鞋子","属性1":"Movement Speed","属性2":"Strength","属性3":"Ranks to War Cry","属性4":null,"greater affix":3.0},{"商品名称":"Tempest Roar","装备类型":"头盔","属性1":"Maximum Resource","属性2":"Willpower","属性3":"Ranks to Wild lmpulses","属性4":"Lightning Resistance","greater affix":4.0},{"商品名称":null,"装备类型":"胸甲","属性1":"Maximum Life","属性2":"Armor","属性3":"Resistance to All Elements","属性4":null,"greater affix":3.0},{"商品名称":null,"装备类型":"护身符","属性1":"Ranks to Envenom","属性2":"Ranks to Quickshift","属性3":"Willpower","属性4":null,"greater affix":3.0},{"商品名称":null,"装备类型":"手套","属性1":"Willpower","属性2":"Maximum Life","属性3":"Resistance to All Elements","属性4":null,"greater affix":3.0},{"商品名称":"Airidah's Inexorable Will","装备类型":"戒指","属性1":"Willpower","属性2":"Damage to Close Enemies","属性3":"Lucky Hit Chance","属性4":"Ultimate Skill Cooldown Reduction","greater affix":4.0},{"商品名称":"Mjölnic Ryng","装备类型":"戒指","属性1":"Ranks to Endless Tempest","属性2":"Willpower","属性3":"Movement Speed while Cataclysm is Active","属性4":"Critical Strike Chance","greater affix":4.0},{"商品名称":null,"装备类型":"裤子","属性1":"Armor","属性2":"Maximum Life","属性3":"Resistance to All Elements","属性4":null,"greater affix":3.0},{"商品名称":"Flickerstep","装备类型":"鞋子","属性1":"Movement Speed","属性2":"Lightning Resistance","属性3":"Damage Reduction from Close Enemies","属性4":"Ultimate Damage","greater affix":4.0},{"商品名称":null,"装备类型":"双手锤","属性1":"Willpower","属性2":"Maximum Life","属性3":"Overpower Damage","属性4":null,"greater affix":3.0},{"商品名称":"Heir of Perdition","装备类型":"头盔","属性1":"Critical Strike Chance","属性2":"Lucky Hit Chance","属性3":"Movement Speed","属性4":"Core Skills","greater affix":4.0},{"商品名称":"Kessime's Legacy","装备类型":"裤子","属性1":"Ultimate Damage","属性2":"Damage Reduction While Fortified","属性3":"Blood Wave Cooldown Reduction","属性4":"Chance for Blood Wave to Deal Double Damage","greater affix":4.0},{"商品名称":null,"装备类型":"护身符","属性1":"Ranks to Coalesced Blood","属性2":"Intelligence","属性3":"Ranks to Tides of Blood","属性4":null,"greater affix":null},{"商品名称":null,"装备类型":"手套","属性1":"Critical Strike Chance","属性2":"Maximum Life","属性3":"Intelligence","属性4":null,"greater affix":null},{"商品名称":null,"装备类型":"戒指","属性1":"Maximum Life","属性2":"Intelligence","属性3":"Attack Speed","属性4":null,"greater affix":null},{"商品名称":null,"装备类型":"戒指","属性1":"Lucky Hit: Up to a Chance to Make Enemies Vulnerable for 2 Seconds","属性2":"Maximum Life","属性3":"Attack Speed","属性4":null,"greater affix":null}]
+[
+  {
+    "商品名称": null,
+    "装备类型": "护身符",
+    "属性1": "Ranks to Heavy Handed",
+    "属性2": "Ranks to Counteroffensive",
+    "属性3": "Strength",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": "Ugly Bastard Helm",
+    "装备类型": "头盔",
+    "属性1": "Ranks to Prolific Fury",
+    "属性2": "XWrath of the Berserker Cooldown Reduction",
+    "属性3": "Ranks to Agressive Resistance",
+    "属性4": "Lucky Hit: Up to a 40% Chance to Deal [X] Fire Damage",
+    "greater affix": 4
+  },
+  {
+    "商品名称": "Mantle of Mountain's Fury",
+    "装备类型": "胸甲",
+    "属性1": "Armor",
+    "属性2": "Ranks to Hammer of the Ancients",
+    "属性3": "Ranks to Defensive Stance",
+    "属性4": "Chance for Earthquake to Deal Double Damage",
+    "greater affix": 4
+  },
+  {
+    "商品名称": "Fists of Fate",
+    "装备类型": "手套",
+    "属性1": "Lucky Hit Chance",
+    "属性2": "Critical Strike Chance",
+    "属性3": "Attack Speed",
+    "属性4": "Lucky Hit: Up to a [X%] Chance to Apply a Random Crowd Control Effect for 2 Seconds",
+    "greater affix": 4
+  },
+  {
+    "商品名称": null,
+    "装备类型": "戒指",
+    "属性1": "Resistance to All Elements",
+    "属性2": "Strength",
+    "属性3": "Critical Strike Chance",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "戒指",
+    "属性1": "Critical Strike Chance",
+    "属性2": "Resistance to All Elements",
+    "属性3": "Strength",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "裤子",
+    "属性1": "Maximum Life",
+    "属性2": "Strength",
+    "属性3": "Resistance to All Elements",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "鞋子",
+    "属性1": "Strength",
+    "属性2": "Ranks to War Cry",
+    "属性3": "Movement Speed",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "双手锤",
+    "属性1": "Vulnerable Damage",
+    "属性2": "Maximum Life",
+    "属性3": "Strength",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "护身符",
+    "属性1": "Strength",
+    "属性2": "Ranks to Heavy Handed",
+    "属性3": "Ranks to Pit Fighter",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "鞋子",
+    "属性1": "Movement Speed",
+    "属性2": "Strength",
+    "属性3": "Ranks to War Cry",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": "Tempest Roar",
+    "装备类型": "头盔",
+    "属性1": "Maximum Resource",
+    "属性2": "Willpower",
+    "属性3": "Ranks to Wild lmpulses",
+    "属性4": "Lightning Resistance",
+    "greater affix": 4
+  },
+  {
+    "商品名称": null,
+    "装备类型": "胸甲",
+    "属性1": "Maximum Life",
+    "属性2": "Armor",
+    "属性3": "Resistance to All Elements",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "护身符",
+    "属性1": "Ranks to Envenom",
+    "属性2": "Ranks to Quickshift",
+    "属性3": "Willpower",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "手套",
+    "属性1": "Willpower",
+    "属性2": "Maximum Life",
+    "属性3": "Resistance to All Elements",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": "Airidah's Inexorable Will",
+    "装备类型": "戒指",
+    "属性1": "Willpower",
+    "属性2": "Damage to Close Enemies",
+    "属性3": "Lucky Hit Chance",
+    "属性4": "Ultimate Skill Cooldown Reduction",
+    "greater affix": 4
+  },
+  {
+    "商品名称": "Mjölnic Ryng",
+    "装备类型": "戒指",
+    "属性1": "Ranks to Endless Tempest",
+    "属性2": "Willpower",
+    "属性3": "Movement Speed while Cataclysm is Active",
+    "属性4": "Critical Strike Chance",
+    "greater affix": 4
+  },
+  {
+    "商品名称": null,
+    "装备类型": "裤子",
+    "属性1": "Armor",
+    "属性2": "Maximum Life",
+    "属性3": "Resistance to All Elements",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": "Flickerstep",
+    "装备类型": "鞋子",
+    "属性1": "Movement Speed",
+    "属性2": "Lightning Resistance",
+    "属性3": "Damage Reduction from Close Enemies",
+    "属性4": "Ultimate Damage",
+    "greater affix": 4
+  },
+  {
+    "商品名称": null,
+    "装备类型": "双手锤",
+    "属性1": "Willpower",
+    "属性2": "Maximum Life",
+    "属性3": "Overpower Damage",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": "Heir of Perdition",
+    "装备类型": "头盔",
+    "属性1": "Critical Strike Chance",
+    "属性2": "Lucky Hit Chance",
+    "属性3": "Movement Speed",
+    "属性4": "Core Skills",
+    "greater affix": 4
+  },
+  {
+    "商品名称": "Kessime's Legacy",
+    "装备类型": "裤子",
+    "属性1": "Ultimate Damage",
+    "属性2": "Damage Reduction While Fortified",
+    "属性3": "Blood Wave Cooldown Reduction",
+    "属性4": "Chance for Blood Wave to Deal Double Damage",
+    "greater affix": 4
+  },
+  {
+    "商品名称": null,
+    "装备类型": "护身符",
+    "属性1": "Ranks to Coalesced Blood",
+    "属性2": "Intelligence",
+    "属性3": "Ranks to Tides of Blood",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "手套",
+    "属性1": "Critical Strike Chance",
+    "属性2": "Maximum Life",
+    "属性3": "Intelligence",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "戒指",
+    "属性1": "Maximum Life",
+    "属性2": "Intelligence",
+    "属性3": "Attack Speed",
+    "属性4": null,
+    "greater affix": 3
+  },
+  {
+    "商品名称": null,
+    "装备类型": "戒指",
+    "属性1": "Lucky Hit: Up to a Chance to Make Enemies Vulnerable for 2 Seconds",
+    "属性2": "Maximum Life",
+    "属性3": "Attack Speed",
+    "属性4": null,
+    "greater affix": 3
+  }
+]

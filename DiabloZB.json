@@ -233,4 +233,22 @@
     "属性4": null,
     "greater affix": 3
   }
+  {
+    "商品名称": "Ultimate Damage",
+    "装备部位": "Pants",
+    "属性1": "Ultimate Damage",
+    "属性2": "Damage Reduction while Fortified",
+    "属性3": "Blood Wave Cooldown Reduction",
+    "属性4": "Chance for Blood Wave to Deal Double Damage",
+    "greater affix": 4
+  }
+  {
+    "商品名称": "Mantle of Mountain's Fury",
+    "装备部位": "Chest Armor",
+    "属性1": "Chance for Earthquake to Deal Double Damage",
+    "属性2": "to Hammer of the Ancients",
+    "属性3": "to Defensive Stance",
+    "属性4": "Armor",
+    "greater affix": 4
+  }
 ]

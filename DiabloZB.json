@@ -260,4 +260,13 @@
     "属性4": "Chance for Rain of Arrows to Deal Double Damage",
     "greater affix": 4
   }
+  {
+    "商品名称": "ring of the midnight sun",
+    "装备部位": "Ring",
+    "属性1": "Dexterity",
+    "属性2": "Critical Strike Damage",
+    "属性3": "Cooldown Reduction",
+    "属性4": "to Mirage",
+    "greater affix": 4
+  }
 ]

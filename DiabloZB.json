@@ -251,4 +251,13 @@
     "属性4": "Armor",
     "greater affix": 4
   }
+  {
+    "商品名称": "Word of Hakan",
+    "装备部位": "Amulet",
+    "属性1": "Ultimate Damage",
+    "属性2": "Rain of Arrows Cooldown Reduction",
+    "属性3": "to Imbuement Skills",
+    "属性4": "Chance for Rain of Arrows to Deal Double Damage",
+    "greater affix": 4
+  }
 ]

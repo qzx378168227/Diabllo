@@ -1,7 +1,7 @@
 [
   {
     "商品名称": null,
-    "装备类型": "Amulet",
+    "装备部位": "Amulet",
     "属性1": "Ranks to Heavy Handed",
     "属性2": "Ranks to Counteroffensive",
     "属性3": "Strength",
@@ -10,7 +10,7 @@
   },
   {
     "商品名称": "Ugly Bastard Helm",
-    "装备类型": "Helm",
+    "装备部位": "Helm",
     "属性1": "Ranks to Prolific Fury",
     "属性2": "XWrath of the Berserker Cooldown Reduction",
     "属性3": "Ranks to Agressive Resistance",
@@ -19,7 +19,7 @@
   },
   {
     "商品名称": "Mantle of Mountain's Fury",
-    "装备类型": "chestarmor",
+    "装备部位": "chestarmor",
     "属性1": "Armor",
     "属性2": "Ranks to Hammer of the Ancients",
     "属性3": "Ranks to Defensive Stance",
@@ -28,7 +28,7 @@
   },
   {
     "商品名称": "Fists of Fate",
-    "装备类型": "Gloves",
+    "装备部位": "Gloves",
     "属性1": "Lucky Hit Chance",
     "属性2": "Critical Strike Chance",
     "属性3": "Attack Speed",
@@ -37,7 +37,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Ring",
+    "装备部位": "Ring",
     "属性1": "Resistance to All Elements",
     "属性2": "Strength",
     "属性3": "Critical Strike Chance",
@@ -46,7 +46,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Ring",
+    "装备部位": "Ring",
     "属性1": "Critical Strike Chance",
     "属性2": "Resistance to All Elements",
     "属性3": "Strength",
@@ -55,7 +55,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Pants",
+    "装备部位": "Pants",
     "属性1": "Maximum Life",
     "属性2": "Strength",
     "属性3": "Resistance to All Elements",
@@ -64,7 +64,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "boot",
+    "装备部位": "boot",
     "属性1": "Strength",
     "属性2": "Ranks to War Cry",
     "属性3": "Movement Speed",
@@ -73,7 +73,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "双手锤",
+    "装备部位": "双手锤",
     "属性1": "Vulnerable Damage",
     "属性2": "Maximum Life",
     "属性3": "Strength",
@@ -82,7 +82,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Amulet",
+    "装备部位": "Amulet",
     "属性1": "Strength",
     "属性2": "Ranks to Heavy Handed",
     "属性3": "Ranks to Pit Fighter",
@@ -91,7 +91,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "boot",
+    "装备部位": "boot",
     "属性1": "Movement Speed",
     "属性2": "Strength",
     "属性3": "Ranks to War Cry",
@@ -100,7 +100,7 @@
   },
   {
     "商品名称": "Tempest Roar",
-    "装备类型": "Helm",
+    "装备部位": "Helm",
     "属性1": "Maximum Resource",
     "属性2": "Willpower",
     "属性3": "Ranks to Wild lmpulses",
@@ -109,7 +109,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "chestarmor",
+    "装备部位": "chestarmor",
     "属性1": "Maximum Life",
     "属性2": "Armor",
     "属性3": "Resistance to All Elements",
@@ -118,7 +118,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Amulet",
+    "装备部位": "Amulet",
     "属性1": "Ranks to Envenom",
     "属性2": "Ranks to Quickshift",
     "属性3": "Willpower",
@@ -127,7 +127,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Gloves",
+    "装备部位": "Gloves",
     "属性1": "Willpower",
     "属性2": "Maximum Life",
     "属性3": "Resistance to All Elements",
@@ -136,7 +136,7 @@
   },
   {
     "商品名称": "Airidah's Inexorable Will",
-    "装备类型": "Ring",
+    "装备部位": "Ring",
     "属性1": "Willpower",
     "属性2": "Damage to Close Enemies",
     "属性3": "Lucky Hit Chance",
@@ -145,7 +145,7 @@
   },
   {
     "商品名称": "Mjölnic Ryng",
-    "装备类型": "Ring",
+    "装备部位": "Ring",
     "属性1": "Ranks to Endless Tempest",
     "属性2": "Willpower",
     "属性3": "Movement Speed while Cataclysm is Active",
@@ -154,7 +154,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Pants",
+    "装备部位": "Pants",
     "属性1": "Armor",
     "属性2": "Maximum Life",
     "属性3": "Resistance to All Elements",
@@ -163,7 +163,7 @@
   },
   {
     "商品名称": "Flickerstep",
-    "装备类型": "boot",
+    "装备部位": "boot",
     "属性1": "Movement Speed",
     "属性2": "Lightning Resistance",
     "属性3": "Damage Reduction from Close Enemies",
@@ -172,7 +172,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "双手锤",
+    "装备部位": "双手锤",
     "属性1": "Willpower",
     "属性2": "Maximum Life",
     "属性3": "Overpower Damage",
@@ -181,7 +181,7 @@
   },
   {
     "商品名称": "Heir of Perdition",
-    "装备类型": "Helm",
+    "装备部位": "Helm",
     "属性1": "Critical Strike Chance",
     "属性2": "Lucky Hit Chance",
     "属性3": "Movement Speed",
@@ -190,7 +190,7 @@
   },
   {
     "商品名称": "Kessime's Legacy",
-    "装备类型": "Pants",
+    "装备部位": "Pants",
     "属性1": "Ultimate Damage",
     "属性2": "Damage Reduction While Fortified",
     "属性3": "Blood Wave Cooldown Reduction",
@@ -199,7 +199,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Amulet",
+    "装备部位": "Amulet",
     "属性1": "Ranks to Coalesced Blood",
     "属性2": "Intelligence",
     "属性3": "Ranks to Tides of Blood",
@@ -208,7 +208,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Gloves",
+    "装备部位": "Gloves",
     "属性1": "Critical Strike Chance",
     "属性2": "Maximum Life",
     "属性3": "Intelligence",
@@ -217,7 +217,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Ring",
+    "装备部位": "Ring",
     "属性1": "Maximum Life",
     "属性2": "Intelligence",
     "属性3": "Attack Speed",
@@ -226,7 +226,7 @@
   },
   {
     "商品名称": null,
-    "装备类型": "Ring",
+    "装备部位": "Ring",
     "属性1": "Lucky Hit: Up to a Chance to Make Enemies Vulnerable for 2 Seconds",
     "属性2": "Maximum Life",
     "属性3": "Attack Speed",
